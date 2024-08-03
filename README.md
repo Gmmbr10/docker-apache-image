@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="96" height="96" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-Docker-Logo-social-media-those-icons-flat-those-icons.png" alt="external-Docker-Logo-social-media-those-icons-flat-those-icons"/>
+</p>
+
 <h1 align="center">Docker apache image</h1>
 
 <p align="center">Este repositório contém uma imagem docker. Nessa imagem, está configurado um alpine com servidor apache para que possa ser realizado o desenvolvimento de projetos php.</p>
